@@ -1,0 +1,10 @@
+.jumbotron{
+    width: 70%;
+    height: 15%;
+    background-color: lightgrey;
+    margin: auto;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
